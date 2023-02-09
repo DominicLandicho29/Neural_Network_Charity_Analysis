@@ -10,7 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/111463407/217674010-463fd3da-170b-469d-99cd-d67e2545834f.png)
 
-- Unfortunately I was unable to get my model to above 75% accuracy score. However, compared to my original model, I was able to increaase the accuracy to 56%.
+- Unfortunately I was unable to get my model to above 75% accuracy score. However, compared to my original model, I was able to increase the accuracy to 56%.
 
 ## Summary
 
